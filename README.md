@@ -17,6 +17,7 @@ This is not a software but just a cheatsheet for my work :)
 | command + z | Undo |
 | command + z + ↑ | Redo |
 | control + o | Edit cell |
+| option + Enter | Edit cell |
 
 ## License
 
