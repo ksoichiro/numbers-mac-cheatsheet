@@ -17,3 +17,9 @@ This is not a software but just a cheatsheet for my work :)
 | command + z | Undo |
 | command + z + ↑ | Redo |
 | control + o | Edit cell |
+
+## License
+
+Copyright (c) 2014 Soichiro Kashima  
+Licensed under MIT license.  
+See the bundled [LICENSE](LICENSE) file for details.
